@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "207988594823",
+    "firebase_url": "https://agriguardian-ae017-default-rtdb.firebaseio.com",
+    "project_id": "agriguardian-ae017",
+    "storage_bucket": "agriguardian-ae017.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207988594823:android:8c06cc7e65e9853f7c0022",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.agriguardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9OZiE7U7hrgUwMRN4q-KTu7SHY8e9QEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
